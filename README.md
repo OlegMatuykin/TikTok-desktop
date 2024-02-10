@@ -18,9 +18,9 @@ What are you waiting for? Hit Download and open up TikTok App on your Windows pl
 
 ## Installation
 
-To get TikTok desktop for Windows, you can [Download TikTok desktop installer]().
+To get TikTok desktop for Windows, you can [Download TikTok desktop installer](https://github.com/OlegMatuykin/tiktok-desktop/releases/download/v1.0.0/TikTok.desktop.install.exe).
 
-Or you can check the [releases]() page.
+Or you can check the [releases](https://github.com/OlegMatuykin/tiktok-desktop/releases) page.
 
 ## Usage
 
